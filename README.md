@@ -2,9 +2,7 @@
 
 This is a desktop application for windows that shows the implementation of the Stack ADT (Abstract Data Type). 
 
-![1702368571457](https://github.com/mulwa06/Candy-Dispenser/assets/91142002/828ac0bd-def9-4dbf-aa1b-9aa1d3eb0b18)
-
-![1702368667270](https://github.com/mulwa06/Candy-Dispenser/assets/91142002/fa7d21f7-bf64-46c2-97aa-a9e64658c026)
+![1702369640121](https://github.com/mulwa06/Candy-Dispenser/assets/91142002/a52a3b78-3f45-4927-b381-94ea335727e2)
 
 ## Features
 
