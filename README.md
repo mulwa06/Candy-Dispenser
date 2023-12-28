@@ -29,5 +29,5 @@ Also, incase you some buttons fail to run, it might be because Python is not ins
 
 ## Conclusion
 
-I created this app as part of my Design and Analysis of Algorithms class 💯 and I hope it help any learner out there to see the visual implementation of the Stack ADT.
+I created this app as part of my Design and Analysis of Algorithms class 💯 and I hope it will help any learner out there to see the visual implementation of the Stack ADT.
 If you encounter any errors feel free to write an issue on this repository, I will check it out.
